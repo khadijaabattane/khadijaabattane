@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**khadijaabattane/khadijaabattane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Welcome to my GitHub profile! Here’s a bit about me:
 
 - 🔭 I’m currently working on **[HackaTown Project]** for the **Google HackaTown** event on [Devpost](https://devpost.com/).
